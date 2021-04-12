@@ -54,9 +54,9 @@ const App = () => {
       tasks.map((task) =>
         task.id === id
           ? {
-              ...task,
-              reminder: !data.reminder,
-            }
+            ...task,
+            reminder: !data.reminder,
+          }
           : task
       )
     );
@@ -96,8 +96,8 @@ const App = () => {
                   onToggle={toggleReminder}
                 />
               ) : (
-                <h3 style={{ color: "red" }}>No Task To Show</h3>
-              )}
+                  <h3 style={{ color: "red" }}>No Task To Showwxw</h3>
+                )}
             </>
           )}
         />
