@@ -1,0 +1,40 @@
+{
+  "tasks": [
+    {
+      "text": "Go Fishing",
+      "day": "Wednsday",
+      "reminder": true,
+      "id": 7
+    },
+    {
+      "text": "Swimming",
+      "day": "Sunday",
+      "reminder": false,
+      "id": 8
+    },
+    {
+      "text": "Learning React-Hooks",
+      "day": "Friday",
+      "reminder": true,
+      "id": 9
+    },
+    {
+      "text": "Go Travelling with my family",
+      "day": "This Year",
+      "reminder": true,
+      "id": 10
+    },
+    {
+      "text": "Walking around house",
+      "day": "Saturday March 6 2021 ",
+      "reminder": true,
+      "id": 11
+    },
+    {
+      "text": "Go School",
+      "day": "Monday",
+      "reminder": false,
+      "id": 12
+    }
+  ]
+}
